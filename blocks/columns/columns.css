@@ -5,10 +5,7 @@
 
 .columns img {
   width: 100%;
-}
-
-.maxcolimg { 
-  max-width: 300px !important; 
+  max-width: 300px; 
 }
 
 .columns > div > div {
