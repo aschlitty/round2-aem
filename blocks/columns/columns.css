@@ -7,7 +7,9 @@
   width: 100%;
 }
 
-.maxcolimg { max-width: 300px; }
+.maxcolimg { 
+  max-width: 300px !important; 
+}
 
 .columns > div > div {
   order: 1;
