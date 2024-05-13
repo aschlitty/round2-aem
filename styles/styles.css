@@ -9,6 +9,10 @@
  * OF ANY KIND, either express or implied. See the License for the specific language
  * governing permissions and limitations under the License.
  */
+body > main > div.section.columns-container > div.columns-wrapper > div > div:nth-child(1) > div.columns-img-col > picture > img { float: right; }
+body > main > div.section.columns-container > div.columns-wrapper > div > div:nth-child(1) > div:nth-child(1) { text-align: right; }
+body > main > div.section.columns-container > div.columns-wrapper > div > div:nth-child(3) > div.columns-img-col > picture > img { float: right; }
+body > main > div.section.columns-container > div.columns-wrapper > div > div:nth-child(3) > div:nth-child(1) { text-align: right; }
 
 :root {
   /* colors */
