@@ -18,7 +18,7 @@
 }
 
 .accordion details[open] summary {
-  background-color: var(--light-color);
+  background-color: #777777;
 }
 
 .accordion details summary:focus,
