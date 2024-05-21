@@ -23,7 +23,7 @@
 
 .accordion details summary:focus,
 .accordion details summary:hover {
-  background-color: var(--dark-color);
+  background-color: #777777;
 }
 
 .accordion details summary::-webkit-details-marker {
